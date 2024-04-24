@@ -1,9 +1,7 @@
-# hg-2-Alfa
+
 
 # Equipo N° 4
 Practica Equipo 4 - Alfa
-
-## hg_2_Alfa
 
 | Hacks  | Details |
 | ------------- | ------------- |
